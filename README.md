@@ -42,6 +42,8 @@ Adults who buy for family, partners and friends, especially whoever in the house
 | Premium | £1.49/month or £7.99 lifetime: unlimited people, shared lists, budgets |
 | Affiliate | Gift ideas linking to retailers, clearly labelled |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
