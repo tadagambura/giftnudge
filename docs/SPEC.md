@@ -1,6 +1,6 @@
 # GiftNudge: Spec
 
-**Never miss a birthday, never panic-buy a gift** · #27 of 33 · Wave 3: Seasonal and episodic · Used: A few times a year · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: New (Claude)
+**Never miss a birthday, never panic-buy a gift** · #26 of 32 · Wave 3: Seasonal and episodic · Used: A few times a year · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: New (Claude)
 
 ## One-liner
 
