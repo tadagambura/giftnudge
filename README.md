@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After a birthday, prompt to jot ideas for next year |
 | Cadence | Event-driven; Christmas peak |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- The gift box shakes more as a birthday approaches; ribbon unwraps when 'bought'
+- Birthday approaching: the gift box shakes a little more each day
+- Marked as bought: the ribbon unties itself into confetti
+- Idea added: a lightbulb pops above the stickman's head
+- Christmas list done: a tiny sleigh flies across
+- Under budget: the piggy bank wears a party hat
 
 
 ## AI
