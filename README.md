@@ -2,7 +2,7 @@
 
 **Never miss a birthday, never panic-buy a gift**
 
-> #5 of 33 in the build order · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
+> #27 of 33 · Wave 3: Seasonal and episodic · Used: A few times a year · Very easy · Revenue potential: Medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Wishlists shared with family |
 | Next step | After a birthday, prompt to jot ideas for next year |
 | Cadence | Event-driven; Christmas peak |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
