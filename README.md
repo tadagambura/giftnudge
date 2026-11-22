@@ -56,6 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After a birthday, prompt to jot ideas for next year |
 | Cadence | Event-driven; Christmas peak |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- The gift box shakes more as a birthday approaches; ribbon unwraps when 'bought'
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
