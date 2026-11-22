@@ -1,48 +1,77 @@
 # GiftNudge: Spec
 
+**Never miss a birthday, never panic-buy a gift** · #5 of 33 in the build order · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: New (Claude)
+
 ## One-liner
 
-Never miss a birthday, never panic-buy a gift
+A list of the people you buy for, their birthdays and anniversaries, and a running note of gift ideas for each person. It nudges you two weeks before, with your ideas and budget ready.
 
 ## Problem / audience
 
-- Who it's for:
-- The problem it solves:
+- **Who it's for:** Adults who buy for family, partners and friends, especially whoever in the household 'does the presents'.
+- **The problem it solves:** Birthdays sneak up, gift ideas get forgotten, and last-minute gifts cost more.
+- **Example:** In March a user notes that their sister mentioned a pottery class. In October GiftNudge reminds them two weeks before her birthday, idea and budget ready.
 
 ## MVP features (ship with only these)
 
-1.
-2.
-3.
+1. People list with birthdays, anniversaries and other dates
+2. Gift idea notes per person, captured year-round
+3. Reminders 2 weeks and 2 days before (user-configurable)
+4. Budget per person and per year, with a 'bought' tick
+5. Christmas list mode
 
 ## Not in MVP
 
--
+- Gift suggestions by age and interest (affiliate)
+- Shared family gift lists to avoid duplicates
+- Import birthdays from contacts
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free tier | |
-| Paid | |
-| Ads | |
+| Free | Up to 10 people, with ads |
+| Premium | £1.49/month or £7.99 lifetime: unlimited people, shared lists, budgets |
+| Affiliate | Gift ideas linking to retailers, clearly labelled |
 
-## Platform & stack
+Prices are starting points; test before committing.
 
-- Platform: (web/PWA first unless there's a reason not to)
-- Stack:
-- Data: (local-only if possible)
+## Retention: The Progression Loop
 
-## Growth engine hooks
+| Stage | Design |
+|---|---|
+| Cue | A reminder before each date |
+| Tiny win | Tick 'bought' or add an idea |
+| Progress | Who's sorted this year |
+| Share | Wishlists shared with family |
+| Next step | After a birthday, prompt to jot ideas for next year |
+| Cadence | Event-driven; Christmas peak |
 
-- Shareable output (what users would post):
-- Content pillars:
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app (needs notifications).
+- **Data:** On the device only; shared lists need sync later.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
+- **Content pillars:** Gift ideas by person; Christmas planning; Thoughtful cheap gifts; Remembering dates
+- **Shareable output:** Wishlists shared with family
+
+## Risks
+
+Long gaps between uses; Christmas is the main growth window. Contact import needs careful privacy wording.
 
 ## Launch checklist
 
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
