@@ -1,6 +1,6 @@
 # GiftNudge: Spec
 
-**Never miss a birthday, never panic-buy a gift** · #5 of 33 in the build order · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: New (Claude)
+**Never miss a birthday, never panic-buy a gift** · #27 of 33 · Wave 3: Seasonal and episodic · Used: A few times a year · Very easy · Revenue potential: Medium · Plans, Trips & Occasions · Source: New (Claude)
 
 ## One-liner
 
@@ -49,6 +49,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
